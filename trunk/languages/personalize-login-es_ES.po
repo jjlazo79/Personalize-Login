@@ -1,0 +1,219 @@
+# Copyright (C) 2018 delete-usermetas
+# This file is distributed under the same license as the delete-usermetas package.
+msgid ""
+msgstr ""
+"Project-Id-Version: delete-usermetas\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.1.1\n"
+"Last-Translator: Jose Lazo <jjlazo79@gnmail.com>\n"
+"Language: es\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: personalize-login.php:72 templates/account_info.php:3
+#: templates/login_form.php:3 templates/login_form.php:33
+msgid "Sign In"
+msgstr "Iniciar sesión"
+
+#: personalize-login.php:76
+msgid "Your Account"
+msgstr "Su Cuenta"
+
+#: personalize-login.php:80 templates/register_form.php:3
+#: templates/register_form.php:38
+msgid "Register"
+msgstr "Registro"
+
+#: personalize-login.php:84 templates/password_lost_form.php:3
+msgid "Forgot Your Password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: personalize-login.php:88 templates/password_reset_form.php:3
+msgid "Pick a New Password"
+msgstr "Añadir tu nueva contraseña"
+
+#: personalize-login.php:130 personalize-login.php:417
+#: personalize-login.php:568 personalize-login.php:618
+msgid "You are already signed in."
+msgstr "Ya ha iniciado sesión."
+
+#: personalize-login.php:181
+msgid "You are not signed in yet."
+msgstr "Aún no ha iniciado sesión."
+
+#: personalize-login.php:313
+msgid "You do have an email address, right?"
+msgstr "Tienes correo electrónico, ¿cierto?"
+
+#: personalize-login.php:316
+msgid "You need to enter a password to login."
+msgstr "Necesitas ingresar una contraseña para ingresar."
+
+#: personalize-login.php:320
+msgid ""
+"We don't have any users with that email address. Maybe you used a different "
+"one when signing up?"
+msgstr ""
+"No tenemos usuarios con ese correo electrónico. ¿Tal vez usaste otro al "
+"registrarte?"
+
+#: personalize-login.php:326
+#, php-format
+msgid ""
+"The password you entered wasn't quite right. <a href='%s'>Did you forget "
+"your password</a>?"
+msgstr ""
+"La contraseña que ingresaste no era del todo correcta. <a "
+"href='%s'>¿Olvidaste tu contraseña?</a>"
+
+#: personalize-login.php:334
+msgid "The password reset link you used is not valid anymore."
+msgstr "El enlace para restablecer tu contraseña ya no es válido."
+
+#: personalize-login.php:337 templates/register_form.php:33
+msgid "The two passwords you entered don't match."
+msgstr "Las dos contraseñas que ha introducido no coinciden."
+
+#: personalize-login.php:340
+msgid "Sorry, we don't accept empty passwords."
+msgstr "Lo sentimos, no aceptamos contraseñas en blanco."
+
+#: personalize-login.php:347
+msgid "You need to enter your email address to continue."
+msgstr "Necesitas introducir tu correo electrónico para continuar."
+
+#: personalize-login.php:351
+msgid "There are no users registered with this email address."
+msgstr "No hay usuarios registrados con esta dirección de correo electrónico."
+
+#: personalize-login.php:354
+msgid "An unknown error occurred. Please try again later."
+msgstr "Se ha producido un error desconocido. Inténtelo de nuevo más tarde."
+
+#: personalize-login.php:419
+msgid "Registering new users is currently not allowed."
+msgstr "Actualmente no se permite el registro de nuevos usuarios."
+
+#: personalize-login.php:587
+msgid "Invalid password reset link."
+msgstr "Link para cambiar contraseña inválido."
+
+#: personalize-login.php:737
+msgid "Hello!"
+msgstr "Hola!"
+
+#: personalize-login.php:738
+#, php-format
+msgid ""
+"You asked us to reset your password for your account using the email address "
+"%s."
+msgstr ""
+"Nos has pedido recuperar la contraseña de tu cuenta usando el correo "
+"electrónico %s."
+
+#: personalize-login.php:739
+msgid ""
+"If this was a mistake, or you didn't ask for a password reset, just ignore "
+"this email and nothing will happen."
+msgstr ""
+"Si esto fue un error o no has pedido un restablecimiento de contraseña solo "
+"ignora este correo y nada pasará."
+
+#: personalize-login.php:740
+msgid "To reset your password, visit the following address:"
+msgstr ""
+"Para restablecer tu contraseña, por favor visita la siguiente dirección:"
+
+#: personalize-login.php:742
+msgid "Thanks!"
+msgstr "¡Gracias!"
+
+#: templates/account_info.php:26
+msgid "Nickname"
+msgstr "Apodo"
+
+#: templates/account_info.php:27
+msgid "Login"
+msgstr "Acceder"
+
+#: templates/account_info.php:28
+msgid "Nicename"
+msgstr "Apodo"
+
+#: templates/account_info.php:29 templates/login_form.php:32
+#: templates/password_lost_form.php:31 templates/register_form.php:8
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: templates/account_info.php:30
+msgid "URL"
+msgstr "URL"
+
+#: templates/account_info.php:31
+msgid "Register date"
+msgstr "Fecha de registro"
+
+#: templates/account_info.php:32
+msgid "Display Name"
+msgstr "Nombre a Mostrar"
+
+#: templates/login_form.php:18
+msgid "You have signed out. Would you like to sign in again?"
+msgstr "Has cerrado la sesión. ¿Desea iniciar sesión de nuevo?"
+
+#: templates/login_form.php:25
+msgid "Your password has been changed. You can sign in now."
+msgstr "Tu contraseña ha sido cambiada, ya puede iniciar sesión."
+
+#: templates/login_form.php:40
+msgid "Forgot your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: templates/password_lost_form.php:8
+msgid "Check your email for a link to reset your password."
+msgstr ""
+"Por favor, consulta tu correo electrónico para ver el enlace que te ayudará "
+"a restablecer tu contraseña."
+
+#: templates/password_lost_form.php:23
+msgid ""
+"Enter your email address and we'll send you a link you can use to pick a new "
+"password."
+msgstr ""
+"Ingrese su dirección de correo electrónico y le enviaremos un enlace que "
+"puede usar para elegir una nueva contraseña."
+
+#: templates/password_lost_form.php:36 templates/password_reset_form.php:31
+msgid "Reset Password"
+msgstr "Restaurar contraseña"
+
+#: templates/password_reset_form.php:19 templates/register_form.php:23
+msgid "New password"
+msgstr "Nueva contraseña"
+
+#: templates/password_reset_form.php:23
+msgid "Repeat new password"
+msgstr "Repite la nueva contraseña"
+
+#: templates/register_form.php:13
+msgid "First name"
+msgstr "Nombre"
+
+#: templates/register_form.php:18
+msgid "Last name"
+msgstr "Apellidos"
+
+#: templates/register_form.php:28
+msgid "Repeat the password"
+msgstr "Repite la contraseña"
