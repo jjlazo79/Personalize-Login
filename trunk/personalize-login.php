@@ -48,7 +48,7 @@ class Personalize_Login_Plugin
 		add_shortcode('custom-password-reset-form', array($this, 'render_password_reset_form'));
 		add_shortcode('custom-password-lost-form', array($this, 'render_password_lost_form'));
 		//Actions
-		add_action('init', array($this, 'delumet_translate'));
+		add_action('init', array($this, 'personalize_login_translate'));
 		add_action('login_form_login', array($this, 'redirect_to_custom_login'));
 		add_action('wp_logout', array($this, 'redirect_after_logout'));
 		add_action('login_form_register', array($this, 'redirect_to_custom_register'));
@@ -70,7 +70,7 @@ class Personalize_Login_Plugin
 	 *
 	 * @return void
 	 */
-	function delumet_translate()
+	function personalize_login_translate()
 	{
 		$domain = 'personalize-login';
 		$locale = apply_filters('plugin_locale', get_locale(), $domain);

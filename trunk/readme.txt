@@ -39,6 +39,7 @@ You can currently do it by embedding the shortcodes in Gutenberg blocks. In the 
 
 = 1.1.2 =
 * Fix member-password-reset redirect
+* Fix function name
 
 = 1.1.1 =
 * Tested 6.1
