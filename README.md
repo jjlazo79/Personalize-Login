@@ -8,7 +8,7 @@ Tags: login, log in, signin, sig in, register, password, reset password, custom 
 
 Requires at least: 4.2
 
-Tested up to: 5.3
+Tested up to: 6.1
 
 Stable tag: 5.3
 
