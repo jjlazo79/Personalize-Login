@@ -2,7 +2,7 @@
 Contributors: jose-lazo, lebiramdc
 Tags: login, log in, signin, sig in, register, password, reset password, custom login, personalize login
 Requires at least: 4.2
-Tested up to: 5.3.3
+Tested up to: 6.1
 Stable tag: 5.3
 Requires PHP: 5.6
 License: GPLv2 or later
@@ -34,9 +34,12 @@ You can currently do it by embedding the shortcodes in Gutenberg blocks. In the 
 
 == Changelog ==
 
-= 1.1 =
+= 1.1.1 =
+* Tested 6.1
+
+= 1.1.0 =
 * Tested 5.5.3
 * Fixed minor bugs
 
-= 1.0 =
+= 1.0.0 =
 * Initial release
