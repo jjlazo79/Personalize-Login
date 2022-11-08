@@ -12,6 +12,9 @@ The plugin create three new pages: Register, Login and Reset password
 
 == Description ==
 
+[![WP compatibility](https://plugintests.com/plugins/wporg/personalize-login/wp-badge.svg)](https://plugintests.com/plugins/wporg/personalize-login/latest)
+[![PHP compatibility](https://plugintests.com/plugins/wporg/personalize-login/php-badge.svg)](https://plugintests.com/plugins/wporg/personalize-login/latest)
+
 You can customize your default login page, register page, reset password page and profile page
 
 == Installation ==
